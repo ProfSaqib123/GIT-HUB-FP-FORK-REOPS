@@ -2,6 +2,8 @@
 
 ## Simple Interest Calculator
 
+
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
@@ -14,3 +16,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+# Open README.md in a text editor (e.g., nano, VS Code)
+nano README.md
+# Add a line or fix a typo, then save and close
