@@ -14,9 +14,10 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
 _© 2022 XYZ, Inc._
-
 # Open README.md in a text editor (e.g., nano, VS Code)
 nano README.md
 # Add a line or fix a typo, then save and close
+
+# Make a new change to README.md
+nano README.md
